@@ -1,0 +1,3 @@
+# Day 10
+
+This weekend was more relaxed than last. I've discovered that css is essentially the bane of my existence, and the wireframe project was much harder than I anticipated. Frazier was helping me out on Friday and taught me that classes are the best way to organize css, and that you can give multiple classes to one html element, which kind of blew my mind. I enjoyed the salmon cookie project this last week because there was a lot of flexibility built into the project, and you can add extra more advanced functionality. I'm looking forward to the next project though because it's always a relief to start fresh, especially when we are learning so fast. 
