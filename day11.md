@@ -1,0 +1,3 @@
+# Day 11
+
+Nothing beats sitting down and starting a brand-new bug-free project. An hour into lab today, some guys asked if I could help them whiteboard code to avoid putting the same image into the same position as the last click event, which I did. Then I went back down, feeling proud of the code I just wrote, and then Pavel came over and told me that I did the problem wrong. I needed to make sure that none of the images from the last click event were repeated in any of the positions. So it turns out about half the code I had written had to be refactored. That goes to show the importance of understanding problem domains.
